@@ -63,7 +63,7 @@ print(name)
 
 * Enter your newly created directory as follows:
 
-![direcotyr](images/7_enterDirectory)
+![direcotyr](images/7_enterDirectory.png)
 
 * Open the readme.md file, using Markdown create an awesome Lesson!
 
