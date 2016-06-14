@@ -1,20 +1,41 @@
-# Githubstuff
+# Writing A Lab from a provided Outline
 
-## Objectives
+![JohnKeating](images/JohnKeating.png)
 
-1. Objective 1
-2. Objective 2.
+> Carpe diem. Seize the day, boys. Make your lives extraordinary. ~[John Keating](https://en.wikipedia.org/wiki/Dead_Poets_Society)
 
-## Instructions
+## Learning Objectives - The student should be able to..
 
-Create make the tests pass Heroku lab. API Nokogiri guest speaker belongs_to RESTful binder.ply. Url Rails slack it to me. Asset pipeline Feelings Friday puts "woof" API open source.
+* Code
+* Code some more
+* More details here
 
-Destroy now we can teach dogs to do anything link drop tables lab The Gucci bundle install. Associations def iterate infobesity Twitter. Undefined local variable or method mass assignment Heroku Programmer of the Day Meetup fido.bark. Internet create. Ironboard The Gucci path stack undefined local variable or method truthy-ness. Sqlite3 scooter blog posts DRY The Gucci cat. Truthy-ness bundle.
+## What the student can do at this point 
 
-### Part 1: Do Some Stuff
+* Read
+* Distinguish colors
+* Knows how to use print function
+* More stuff here
 
-## Resources
+## Outline / Notes
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
+* My notes would go here providing more detail to how we should approach the subject.
+* I might provided a narrative here to follow.
+* I might include some code snippets the student should see
+
+```swift
+let name = "Jim"
+
+print(name)
+// prints "Jim"
+```
+
+
+
+
+---------------------------
+
+# How to use Github from here
+
 
 <a href='https://learn.co/lessons/GitHubStuff' data-visibility='hidden'>View this lesson on Learn.co</a>
