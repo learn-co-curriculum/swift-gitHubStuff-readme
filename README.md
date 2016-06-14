@@ -1,6 +1,6 @@
 # Writing A Lab from a provided Outline
 
-![JohnKeating](images/JohnKeating.png)
+![JohnKeating](images/John_Keating.png)
 
 > Carpe diem. Seize the day, boys. Make your lives extraordinary. ~[John Keating](https://en.wikipedia.org/wiki/Dead_Poets_Society)
 
